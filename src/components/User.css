@@ -1,0 +1,30 @@
+.general {
+  background: rgb(228, 228, 228);
+  position: relative;
+  top: 1.6vw;
+  width: 40%;
+  height: 50vh;
+  margin: auto;
+  overflow: scroll;
+  border-radius: 12px;
+}
+.user {
+  position: relative;
+  top: 2vw;
+  margin: auto;
+  margin-bottom: 10px;
+  background: rgb(50, 51, 51);
+  border-radius: 12px;
+  border-color: black;
+  width: 94%;
+  height: 60px;
+}
+
+h3 {
+  font-size: large;
+  color: rgb(255, 255, 255);
+  margin-top: 0px;
+  position: relative;
+  left: 10vw;
+  transform: translateY(20px);
+}

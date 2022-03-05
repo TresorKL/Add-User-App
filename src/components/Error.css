@@ -1,0 +1,22 @@
+.error {
+  position: absolute;
+  left: 26vw;
+  top: 10vw;
+  background: rgb(78, 78, 236);
+  height: 10vw;
+  width: 50%;
+  z-index: 10;
+  border-radius: 14px;
+}
+
+.myBtn {
+  position: relative;
+  left: 23vw;
+  top: 6vw;
+}
+
+.mYspan {
+  position: relative;
+  left: 5vw;
+  top: 3vw;
+}
